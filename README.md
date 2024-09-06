@@ -12,3 +12,24 @@
 * When you log in as an admin, you can add a new ATM user, delete a registered ATM user, and see all users registered in the ATM.
 * In order to use the ATM, you must write the numbers at the beginning of the given options.
 * There is a visual login screen and current date and time in the ATM.
+
+  ![photo1](https://github.com/Ziyavnl/ATM-Application/blob/main/photo/Screenshot_1.png)
+
+* our login screen.
+
+________________________________________________________________________________________
+
+  ![photo2](https://github.com/Ziyavnl/ATM-Application/blob/main/photo/Screenshot_2.png)
+
+* Our transaction screens.
+________________________________________________________________________________________
+
+  ![photo3](https://github.com/Ziyavnl/ATM-Application/blob/main/photo/Screenshot_3.png)
+
+* Our transaction screens.
+
+
+
+https://github.com/user-attachments/assets/1456ac08-2c43-442a-a4f4-403a7b35dfa3
+
+
